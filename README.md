@@ -16,3 +16,4 @@ A simple landing page about the Nirvana rock band built with HTML and CSS.
 - RTL support
 - Flexbox design
 - Persian typography
+- Persian typography
