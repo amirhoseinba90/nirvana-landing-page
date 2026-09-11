@@ -11,6 +11,10 @@ A simple landing page about the Nirvana rock band built with HTML and CSS.
 
 ![Project Preview](preview.png)
 
+## Live Demo
+
+[View Live Demo](https://amirhoseinba90.github.io/nirvana-landing-page/)
+
 ## Features
 - Responsive layout
 - RTL support
